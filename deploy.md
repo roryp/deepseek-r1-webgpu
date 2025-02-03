@@ -70,3 +70,8 @@ Confirm that your package.json includes the following deploy script:
   // ...existing code...
 }
 ```
+
+8. Use gh-pages to deploy:
+  ```sh
+  npm run deploy
+  ```
